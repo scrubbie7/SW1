@@ -20,4 +20,6 @@
         "<group name>": "/proxy/api/imgur/chapter/9XhaMoc/"
       },
       "last_updated": "1616368746"
-    }
+     }
+  }
+}
