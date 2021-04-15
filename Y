@@ -44,6 +44,30 @@
         "<group name>": "/proxy/api/imgur/chapter/hvUqjm7/"
       },
       "last_updated": "1616368746"
+    },
+"Eunhye's supermarket": {
+      "title": "black",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ruwqvVh/"
+      },
+      "last_updated": "1616368746"
+    },
+"Eunhye's supermarket": {
+      "title": "pony",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ZatoUAX/"
+      },
+      "last_updated": "1616368746"
+    },
+"Eunhye's supermarket": {
+      "title": "brown",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ccUljhI/"
+      },
+      "last_updated": "1616368746"
     }
-  }
-}
+   }
+ }
