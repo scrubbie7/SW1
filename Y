@@ -12,6 +12,14 @@
         "<group name>": "/proxy/api/imgur/chapter/GvbfENJ/"
       },
       "last_updated": "1616368746"
-    }
+    },
   }
 }
+ "<blue>": {
+      "title": "<chapter name>",
+      "volume": "<volume number>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<9XhaMoc>/"
+      },
+      "last_updated": "1616368746"
+    }
