@@ -13,7 +13,7 @@
       },
       "last_updated": "1616368746"
     },
-"2": {
+"1.1": {
       "title": "blue",
       "volume": "0",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1616368746"
     },
-"3": {
+"1.2": {
       "title": "anna",
       "volume": "0",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1616368746"
     },
-"4": {
+"1.3": {
       "title": "pink",
       "volume": "0",
       "groups": {
@@ -37,7 +37,7 @@
       },
       "last_updated": "1616368746"
     },
-"5": {
+"1.4": {
       "title": "black",
       "volume": "0",
       "groups": {
@@ -45,7 +45,7 @@
       },
       "last_updated": "1616368746"
     },
-"6": {
+"2": {
       "title": "Eunhye's supermarket black",
       "volume": "0",
       "groups": {
@@ -53,7 +53,7 @@
       },
       "last_updated": "1616368746"
     },
-"7": {
+"2.1": {
       "title": "pony",
       "volume": "0",
       "groups": {
@@ -61,7 +61,7 @@
       },
       "last_updated": "1616368746"
     },
-"8": {
+"2.2": {
       "title": "brown",
       "volume": "0",
       "groups": {
@@ -69,7 +69,7 @@
       },
       "last_updated": "1616368746"
      },
-"8.1": {
+"2.3": {
       "title": "rand",
       "volume": "0",
       "groups": {
@@ -77,7 +77,7 @@
       },
       "last_updated": "1616368746"
     },
-"9": {
+"3": {
       "title": "A Wonderful New World Cover Page",
       "volume": "0",
       "groups": {
@@ -85,7 +85,7 @@
       },
       "last_updated": "1616368746"
      },
-"10": {
+"3.1": {
       "title": "purple",
       "volume": "0",
       "groups": {
@@ -93,7 +93,7 @@
       },
       "last_updated": "1616368746"
     },
-"11": {
+"3.2": {
       "title": "yellow",
       "volume": "0",
       "groups": {
@@ -101,7 +101,7 @@
       },
       "last_updated": "1616368746"
     },
-"12": {
+"3.3": {
       "title": "twintail",
       "volume": "0",
       "groups": {
@@ -109,7 +109,7 @@
       },
       "last_updated": "1616368746"
     },
-"12.1": {
+"3.4": {
       "title": "VP",
       "volume": "0",
       "groups": {
@@ -117,7 +117,7 @@
       },
       "last_updated": "1616368746"
     },
-"12.2": {
+"3.5": {
       "title": "black",
       "volume": "0",
       "groups": {
@@ -125,7 +125,7 @@
       },
       "last_updated": "1616368746"
     },
-"12.3": {
+"3.6": {
       "title": "brown",
       "volume": "0",
       "groups": {
@@ -133,7 +133,7 @@
       },
       "last_updated": "1616368746"
     },
-"12.4": {
+"3.7": {
       "title": "rand",
       "volume": "0",
       "groups": {
@@ -141,7 +141,7 @@
       },
       "last_updated": "1616368746"
     },
-"13": {
+"4": {
       "title": "GoodGirl_Black",
       "volume": "0",
       "groups": {
@@ -149,7 +149,15 @@
       },
       "last_updated": "1616368746"
     },
-"14": {
+"4.1": {
+      "title": "GoodGirl_rand",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/8lIQP50/"
+      },
+      "last_updated": "1616368746"
+    },
+"5.1": {
       "title": "Soothe Me_Black",
       "volume": "0",
       "groups": {
@@ -157,7 +165,7 @@
       },
       "last_updated": "1616368746"
      },
-"14.2": {
+"5.2": {
       "title": "Soothe Me_brown",
       "volume": "0",
       "groups": {
@@ -165,7 +173,7 @@
       },
       "last_updated": "1616368746"
      },     
-"15": {
+"6": {
       "title": "Fitness_M",
       "volume": "0",
       "groups": {
@@ -173,7 +181,7 @@
       },
       "last_updated": "1616368746"
     },
-"16": {
+"6.1": {
       "title": "blue",
       "volume": "0",
       "groups": {
@@ -181,7 +189,7 @@
       },
       "last_updated": "1616368746"
     },
-"17": {
+"6.2": {
       "title": "pony",
       "volume": "0",
       "groups": {
@@ -189,7 +197,7 @@
       },
       "last_updated": "1616368746"
     },
-"18": {
+"6.3": {
       "title": "yellow",
       "volume": "0",
       "groups": {
@@ -197,7 +205,7 @@
       },
       "last_updated": "1616368746"
     },
-"19": {
+"6.4": {
       "title": "brown",
       "volume": "0",
       "groups": {
@@ -205,7 +213,7 @@
       },
       "last_updated": "1616368746"
     },
-"19.1": {
+"6.5": {
       "title": "blue_non",
       "volume": "0",
       "groups": {
@@ -213,7 +221,7 @@
       },
       "last_updated": "1616368746"
     },
-"20": {
+"7": {
       "title": "His Place_M",
       "volume": "0",
       "groups": {
@@ -221,7 +229,23 @@
       },
       "last_updated": "1616368746"
     },
-"21": {
+"7.1": {
+      "title": "R+Y",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/mjBCFNn/"
+      },
+      "last_updated": "1616368746"
+    },
+"7.2": {
+      "title": "His Place_rand",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Z93HoJG/"
+      },
+      "last_updated": "1616368746"
+    },
+"8": {
       "title": "Housekeeper_short",
       "volume": "0",
       "groups": {
@@ -229,7 +253,7 @@
       },
       "last_updated": "1616368746"
     },
-"22": {
+"8.1": {
       "title": "shroom",
       "volume": "0",
       "groups": {
@@ -237,7 +261,7 @@
       },
       "last_updated": "1616368746"
     },
-"23": {
+"8.2": {
       "title": "Housekeeper_long",
       "volume": "0",
       "groups": {
@@ -245,7 +269,7 @@
       },
       "last_updated": "1616368746"
     },
-"24": {
+"9": {
       "title": "有夫同享/Mr.Husband_red",
       "volume": "0",
       "groups": {
@@ -253,7 +277,7 @@
       },
       "last_updated": "1616368746"
      },
-"25": {
+"9.1": {
       "title": "有夫同享/Mr.Husband_G+Y",
       "volume": "0",
       "groups": {
@@ -261,7 +285,7 @@
       },
       "last_updated": "1616368746"
     },
-"26": {
+"9.2": {
       "title": "有夫同享/Mr.Husband_G+B",
       "volume": "0",
       "groups": {
@@ -269,7 +293,7 @@
       },
       "last_updated": "1616368746"
     },
-"27": {
+"9.3": {
       "title": "有夫同享/Mr.Husband_B+W",
       "volume": "0",
       "groups": {
@@ -277,7 +301,7 @@
       },
       "last_updated": "1616368746"
     },
-"28": {
+"10": {
       "title": "Exclusive Contract",
       "volume": "0",
       "groups": {
@@ -285,7 +309,7 @@
       },
       "last_updated": "1616368746"
     },
-"29": {
+"11": {
       "title": "干爹我还要",
       "volume": "0",
       "groups": {
