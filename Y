@@ -45,15 +45,15 @@
       },
       "last_updated": "1616368746"
     },
-"Eunhye's supermarket": {
-      "title": "black",
+"6": {
+      "title": "Eunhye's supermarket black",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/ruwqvVh/"
       },
       "last_updated": "1616368746"
     },
-"ES2": {
+"7": {
       "title": "pony",
       "volume": "0",
       "groups": {
@@ -61,7 +61,7 @@
       },
       "last_updated": "1616368746"
     },
-"ES3": {
+"8": {
       "title": "brown",
       "volume": "0",
       "groups": {
