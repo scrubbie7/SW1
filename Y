@@ -15,11 +15,11 @@
     },
   }
 }
- "<blue>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+ "2": {
+      "title": "blue",
+      "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<9XhaMoc>/"
+        "<group name>": "/proxy/api/imgur/chapter/9XhaMoc/"
       },
       "last_updated": "1616368746"
     }
