@@ -221,6 +221,14 @@
       },
       "last_updated": "1616368746"
     },
+"6.6": {
+      "title": "rand",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/6khNnIm/"
+      },
+      "last_updated": "1616368746"
+    },
 "7": {
       "title": "His Place_M",
       "volume": "0",
