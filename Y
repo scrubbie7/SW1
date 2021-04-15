@@ -53,7 +53,7 @@
       },
       "last_updated": "1616368746"
     },
-"Eunhye's supermarket": {
+"ES2": {
       "title": "pony",
       "volume": "0",
       "groups": {
@@ -61,7 +61,7 @@
       },
       "last_updated": "1616368746"
     },
-"Eunhye's supermarket": {
+"ES3": {
       "title": "brown",
       "volume": "0",
       "groups": {
