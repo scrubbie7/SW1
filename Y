@@ -180,6 +180,22 @@
         "<group name>": "/proxy/api/imgur/chapter/hG1nEXB/"
       },
       "last_updated": "1616368746"
+    },
+"22": {
+      "title": "shroom",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/bGcwcXr/"
+      },
+      "last_updated": "1616368746"
+    },
+"23": {
+      "title": "Housekeeper_long",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/aPhsdZC/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
