@@ -36,6 +36,14 @@
         "<group name>": "/proxy/api/imgur/chapter/oQFHejP/"
       },
       "last_updated": "1616368746"
+    },
+"5": {
+      "title": "black",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/hvUqjm7/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
