@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/rPs18oE.jpg",
   "chapters": {
     "1": {
-      "title": "Yell",
+      "title": "Silent War-Yellow",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/GvbfENJ/"
@@ -66,6 +66,46 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/ccUljhI/"
+      },
+      "last_updated": "1616368746"
+     },
+"9": {
+      "title": "A Wonderful New World Cover Page",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/zc2V4dB/"
+      },
+      "last_updated": "1616368746"
+     },
+"10": {
+      "title": "purple",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/6QSSFL3/"
+      },
+      "last_updated": "1616368746"
+    },
+"11": {
+      "title": "yellow",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/MN0rnZH/"
+      },
+      "last_updated": "1616368746"
+    },
+"12": {
+      "title": "twintail",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/av7mT0T/"
+      },
+      "last_updated": "1616368746"
+    },
+"13": {
+      "title": "GoodGirl_Black",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/db6HmSY/"
       },
       "last_updated": "1616368746"
     }
