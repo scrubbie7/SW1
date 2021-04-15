@@ -69,6 +69,14 @@
       },
       "last_updated": "1616368746"
      },
+"8.1": {
+      "title": "rand",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/pFAd7FM/"
+      },
+      "last_updated": "1616368746"
+    },
 "9": {
       "title": "A Wonderful New World Cover Page",
       "volume": "0",
@@ -109,6 +117,30 @@
       },
       "last_updated": "1616368746"
     },
+"12.2": {
+      "title": "black",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/62kHAZq/"
+      },
+      "last_updated": "1616368746"
+    },
+"12.3": {
+      "title": "brown",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/AFuV1A9/"
+      },
+      "last_updated": "1616368746"
+    },
+"12.4": {
+      "title": "rand",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/NB4Jkai/"
+      },
+      "last_updated": "1616368746"
+    },
 "13": {
       "title": "GoodGirl_Black",
       "volume": "0",
@@ -125,6 +157,14 @@
       },
       "last_updated": "1616368746"
      },
+"14.2": {
+      "title": "Soothe Me_brown",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ULE39m8/"
+      },
+      "last_updated": "1616368746"
+     },     
 "15": {
       "title": "Fitness_M",
       "volume": "0",
@@ -165,6 +205,14 @@
       },
       "last_updated": "1616368746"
     },
+"19.1": {
+      "title": "blue_non",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/VTRnl03/"
+      },
+      "last_updated": "1616368746"
+    },
 "20": {
       "title": "His Place_M",
       "volume": "0",
@@ -194,6 +242,54 @@
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/aPhsdZC/"
+      },
+      "last_updated": "1616368746"
+    },
+"24": {
+      "title": "有夫同享/Mr.Husband_red",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/FWZPgwb/"
+      },
+      "last_updated": "1616368746"
+     },
+"25": {
+      "title": "有夫同享/Mr.Husband_G+Y",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/DBlzR2F/"
+      },
+      "last_updated": "1616368746"
+    },
+"26": {
+      "title": "有夫同享/Mr.Husband_G+B",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/QIM6VsK/"
+      },
+      "last_updated": "1616368746"
+    },
+"27": {
+      "title": "有夫同享/Mr.Husband_B+W",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/1Qhr9WQ/"
+      },
+      "last_updated": "1616368746"
+    },
+"28": {
+      "title": "Exclusive Contract",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/lyX8GAK/"
+      },
+      "last_updated": "1616368746"
+    },
+"29": {
+      "title": "干爹我还要",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/EDdcjou/"
       },
       "last_updated": "1616368746"
     }
