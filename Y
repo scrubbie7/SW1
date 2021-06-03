@@ -324,6 +324,22 @@
         "<group name>": "/proxy/api/imgur/chapter/EDdcjou/"
       },
       "last_updated": "1616368746"
+    },
+"12": {
+      "title": "Lucky Guy_R",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/2rcJMde/"
+      },
+      "last_updated": "1616368746"
+    },
+"12.1": {
+      "title": "LG_S",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/MIThWZ5/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
