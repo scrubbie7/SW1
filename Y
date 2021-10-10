@@ -340,6 +340,14 @@
         "<group name>": "/proxy/api/imgur/chapter/MIThWZ5/"
       },
       "last_updated": "1616368746"
+    },
+"0.1": {
+      "title": "Zero",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/EJxTYmi/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
