@@ -364,7 +364,7 @@
         "<group name>": "/proxy/api/imgur/chapter/JdyBSqm/"
       },
       "last_updated": "1616368746"
-      },
+     },
 "15": {
       "title": "mother in law",
       "volume": "0",
