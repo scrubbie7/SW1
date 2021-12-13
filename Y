@@ -372,6 +372,70 @@
         "<group name>": "/proxy/api/imgur/chapter/TMqjIQt/"
       },
       "last_updated": "1616368746"
+    },
+"16": {
+      "title": "Taste of Forbidden Fruit",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/k9XeItz/"
+      },
+      "last_updated": "1616368746"
+    },
+"17": {
+      "title": "Sharehouse",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/0cyUJ7t/"
+      },
+      "last_updated": "1616368746"
+     },
+"18": {
+      "title": "HMate",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/TS9Oy9O/"
+      },
+      "last_updated": "1616368746"
+    },
+"18.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/03cdjeF/"
+      },
+      "last_updated": "1616368746"
+    },
+"19": {
+      "title": "Run Away",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/b9fqSQR/"
+      },
+      "last_updated": "1616368746"
+     },
+"19.1": {
+      "title": "ch2",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/5s6kUF2/"
+      },
+      "last_updated": "1616368746"
+    },
+"19.2": {
+      "title": "3",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/hEsPsvV/"
+      },
+      "last_updated": "1616368746"
+     },
+"19.3": {
+      "title": "4",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/wQ7FBrg/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
