@@ -460,6 +460,14 @@
         "<group name>": "/proxy/api/imgur/chapter/532qe4O/"
       },
       "last_updated": "1616368746"
+     },
+"21": {
+      "title": "teach pun",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Z0w7GEo/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
