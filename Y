@@ -436,6 +436,30 @@
         "<group name>": "/proxy/api/imgur/chapter/wQ7FBrg/"
       },
       "last_updated": "1616368746"
+     },
+"20": {
+      "title": "Sister Neighbor_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/hWWOsB6/"
+      },
+      "last_updated": "1616368746"
+    },
+"20.1": {
+      "title": "pink+y",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/sfuPb2M/"
+      },
+      "last_updated": "1616368746"
+     },
+"20.2": {
+      "title": "SN_Brown",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/532qe4O/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
