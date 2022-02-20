@@ -468,6 +468,14 @@
         "<group name>": "/proxy/api/imgur/chapter/Z0w7GEo/"
       },
       "last_updated": "1616368746"
+     },
+"22": {
+      "title": "goddess hunting_cover",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/LjggaM5/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
