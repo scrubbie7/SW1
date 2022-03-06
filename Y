@@ -476,6 +476,14 @@
         "<group name>": "/proxy/api/imgur/chapter/LjggaM5/"
       },
       "last_updated": "1616368746"
+     },
+"23": {
+      "title": "beach goddess",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/9gwezJU/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
