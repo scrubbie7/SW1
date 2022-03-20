@@ -502,10 +502,10 @@
       "last_updated": "1616368746"
      },
 "25": {
-      "title": "Runaway Family_mole",
+      "title": "mole",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/Silyh7j/"
+        "<group name>": "/proxy/api/imgur/chapter/RYUIh9J/"
       },
       "last_updated": "1616368746"
     }
