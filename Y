@@ -497,7 +497,7 @@
       "title": "T/P/Br/B",
       "volume": "0",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/9gwezJU/"
+        "<group name>": "/proxy/api/imgur/chapter/4VV5gVP/"
       },
       "last_updated": "1616368746"
      },
