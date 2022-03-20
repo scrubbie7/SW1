@@ -501,11 +501,18 @@
       },
       "last_updated": "1616368746"
      },
-"25": {
+"24.2": {
       "title": "mole",
       "volume": "0",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/RYUIh9J/"
+      },
+      "last_updated": "1616368746"
+"25": {
+      "title": "is there an empty room_P/Y",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/iRZ1nH1/"
       },
       "last_updated": "1616368746"
     }
