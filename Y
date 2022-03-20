@@ -492,6 +492,22 @@
         "<group name>": "/proxy/api/imgur/chapter/N3I4n3u/"
       },
       "last_updated": "1616368746"
+     },
+"24.1": {
+      "title": "T/P/Br/B",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/9gwezJU/"
+      },
+      "last_updated": "1616368746"
+     },
+"25": {
+      "title": "Runaway Family_mole",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Silyh7j/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
