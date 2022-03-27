@@ -524,6 +524,22 @@
         "<group name>": "/proxy/api/imgur/chapter/Silyh7j/"
       },
       "last_updated": "1616368746"
+      },
+"25.1": {
+      "title": "mole",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/j5Uig5D/"
+      },
+      "last_updated": "1616368746"
+      },
+"25.2": {
+      "title": "blk",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/24IUUON/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
