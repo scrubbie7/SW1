@@ -548,6 +548,14 @@
         "<group name>": "/proxy/api/imgur/chapter/6hF0deS/"
       },
       "last_updated": "1616368746"
+      },
+"26.2": {
+      "title": "white",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/7pAfby0/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
