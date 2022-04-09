@@ -540,6 +540,14 @@
         "<group name>": "/proxy/api/imgur/chapter/24IUUON/"
       },
       "last_updated": "1616368746"
+      },
+"26.1": {
+      "title": "brown/glasses",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/6hF0deS/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
