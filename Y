@@ -556,6 +556,62 @@
         "<group name>": "/proxy/api/imgur/chapter/7pAfby0/"
       },
       "last_updated": "1616368746"
+      },
+"27": {
+      "title": "ai pornhwas",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/ZvdP5KZ/"
+      },
+      "last_updated": "1616368746"
+      },
+"27.1": {
+      "title": "ai",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/yG2jdOr/"
+      },
+      "last_updated": "1616368746"
+      },
+"28": {
+      "title": "maiden in law_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/DqCG0nG/"
+      },
+      "last_updated": "1616368746"
+      },
+"28.1": {
+      "title": "pierce+glasses",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/5qaEaNe/"
+      },
+      "last_updated": "1616368746"
+      },
+"28.2": {
+      "title": "green+orange",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/BgzZ3lc/"
+      },
+      "last_updated": "1616368746"
+      },
+"29": {
+      "title": "women of sillim",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/4tvap7H/"
+      },
+      "last_updated": "1616368746"
+      },
+"30": {
+      "title": "more than friends_blue",
+      "volume": "0",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/q0ReUMw/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
